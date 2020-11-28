@@ -1,4 +1,4 @@
-With this app you can use your YI LITE action camera as a webcam in your computer!
+With this app you can use your YI LITE action camera as a wifi webcam in your computer!
 
 ## Getting Started
 ### Prerequisites
