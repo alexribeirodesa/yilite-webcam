@@ -17,7 +17,7 @@ Inside OBS, create a media source and connect using the address rtsp://192.168.4
 Visual Studio Community 2019
 
 ## The Creator
-Hi, I'm Alexandre Ribeiro de Sá. <a href="https://www.instagram.com/alexribeirodesa" target="_blank">@alexribeirodesa</a>
+Hi, I'm Alexandre Ribeiro de Sá. <a href="https://www.instagram.com/elalezito" target="_blank">@elalezito</a>
 
 In past years I have developed several assets for Unity, GameMaker, Construct, original games for arcade machines and more :)
 
