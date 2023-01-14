@@ -15,7 +15,7 @@ namespace YiWebcam {
         private static byte[] _yiData = new byte[512];
         static void Main(string[] args) {
             // CONNECT TO YOUR YI CAMERA
-            _yiSocket = new Socket(AddressFamily.InterNetwork, SocketType.Stream, ProtocolType.Tcp);
+            _yiSocket = new Socket(AddressFamily.InterNetwork, SocketType.Stream, ProtocolType.Udp);
 
             Console.WriteLine("Establishing Connection to {0}", _yiIP);
             _yiSocket.Connect(_yiIP, _yiPort);
